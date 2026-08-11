@@ -220,7 +220,7 @@ export default function BankApp() {
         </div>
         <div style={{ marginTop: 32, fontSize: 12, color: "#64748b", textAlign: "center", lineHeight: 1.7 }}>
           🔒 256-bit encrypted · Multi-user · Private banking<br />
-          Support: <a href="mailto:pointgoddesscc@gmail.com" style={{ color: "#38bdf8" }}>pointgoddesscc@gmail.com</a>
+          Support: <a href="mailto:psebank@pm.me" style={{ color: "#38bdf8" }}>psebank@pm.me</a>
         </div>
       </div>
     );
@@ -538,7 +538,7 @@ export default function BankApp() {
             </div>
             <div style={{ ...card, marginTop: 4 }}>
               <div style={{ fontSize: 11, color: "#94a3b8", fontWeight: 600, letterSpacing: "0.05em", marginBottom: 6 }}>OFFICIAL SUPPORT</div>
-              <a href="mailto:pointgoddesscc@gmail.com" style={{ color: "#38bdf8", fontWeight: 650, fontSize: 15, textDecoration: "none" }}>pointgoddesscc@gmail.com</a>
+              <a href="mailto:psebank@pm.me" style={{ color: "#38bdf8", fontWeight: 650, fontSize: 15, textDecoration: "none" }}>psebank@pm.me</a>
               <div style={{ fontSize: 12, color: "#64748b", marginTop: 4 }}>Account help · Transfers · Crypto & gift cards</div>
             </div>
           </div>
